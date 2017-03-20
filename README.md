@@ -7,7 +7,10 @@ Explanation and commentary: <br/>
 This project was to create for my own learning. <br/>
 Not having yet learned the use of PVector, Class or Object. <br/>
 I wanted above all to put my skills into practice without these concepts. <br/>
-It is very likely that the code has errors!
+It is very likely that the code has errors! <br/>
+I insist that the game is only a prototype. <br/>
+Do not hesitate to tell me what you think. <br/>
+If you have any suggestions, please let me know!
 
 How to compile:
 - Click on clone and download then download zip.
