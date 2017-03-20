@@ -5,7 +5,7 @@ Official processing site: https://processing.org/
 This project was to create for my own learning. <br/>
 Not having yet learned the use of PVector, Class or Object. <br/>
 I wanted above all to put my skills into practice without these concepts. <br/>
-It is very likely that the code has errors! <br/>
+It is very likely that the code has errors!
 
 How to compile:
 - Click on clone and download then download zip.
