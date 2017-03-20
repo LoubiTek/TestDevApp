@@ -2,6 +2,7 @@
 Processing 3 | 2D Game Learn <br/>
 Official processing site: https://processing.org/
 
+Explanation and commentary:
 This project was to create for my own learning. <br/>
 Not having yet learned the use of PVector, Class or Object. <br/>
 I wanted above all to put my skills into practice without these concepts. <br/>
