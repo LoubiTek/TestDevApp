@@ -1,6 +1,7 @@
 # TestDevApp
 Processing 3 | 2D Game Learn
 
+How to compile
 - Click on clone and download then download zip.
 - Cut / paste on desktop
 - Extract the zip
