@@ -12,4 +12,4 @@ How to compile:
 - Click on the TestDevApp folder and then restart TestAppDev.pde
 - Execute and play
 
-Have Fun!
+Have Fun and Enjoy!
