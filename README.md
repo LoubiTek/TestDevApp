@@ -13,3 +13,4 @@ How to compile:
 - Execute and play
 
 Have Fun and Enjoy!
+Thanks to Buch for the player resource: http://opengameart.org/users/buch
