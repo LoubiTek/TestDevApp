@@ -24,5 +24,5 @@ How to compile:
 - Execute and play
 
 Have Fun and Enjoy!
-Thanks to Buch for the player resource: http://opengameart.org/users/buch |
+Thanks to Buch for the player resource: http://opengameart.org/users/buch | <br/>
 And also for the use of the external Minim audio library: http://code.compartmental.net/tools/minim/
