@@ -16,4 +16,4 @@ int ExplainPos_x = Explain_x;
 String Good = "Good: ";
 String Bad = "Bad: ";
 String Win = "You Win !";
-String Won = "You Won !";
+String Lose = "You Lose !";
