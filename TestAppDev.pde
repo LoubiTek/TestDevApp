@@ -97,7 +97,7 @@ void DrawText()
   else if(MalusGain <= -1)
   {
     textSize(16);
-    text(Won,GlobalPlayer[0] + 10,GlobalPlayer[1]);
+    text(Lose,GlobalPlayer[0] + 10,GlobalPlayer[1]);
             filter(INVERT);
   }
   
